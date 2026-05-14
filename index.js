@@ -26,7 +26,7 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 // API routes
 app.get("/", (req, res) => {
   res.send(
-    "API is not running successfully...Oka pani chey...Nuv Dengey.... Do you want to see the API documentation? Go to /api-docs"
+    "API is not running successfully...Oka pani chey...Nuv Deeeeeee.... Do you want to see the API documentation? Go to /api-docs"
   );
 });
 
